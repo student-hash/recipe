@@ -1,0 +1,36 @@
+h1{
+    background-color:rgb(233, 233, 216);
+    color:rgb(156, 156, 27);padding:5px;
+     margin: 5px;
+     text-align: center;
+    }
+    
+    .divi{
+    background-color:yellow;
+    color:black;
+    padding:0px;
+    margin:30px"
+    }
+    
+    .div2{
+     background-color:yellow;
+     color:black;
+     padding:0px;
+     margin:30px;
+    }
+    
+    #p1{
+        text-indent: 40px;
+    }
+    
+    #p2{
+        text-indent: 40px;
+    }
+    #p3{
+        text-indent: 128px;
+    }
+    
+    .maringue img{
+        height: 100px;
+        width: 100px;
+    }
