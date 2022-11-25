@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grandma's Pie Lemon Recipe</title>
 </head>
-<style>  <!-- <a href="recipe.css">Sasa nimeijua  - so click to Register</a>--!>
+<style>  <!-- <a href="recipe.css">- so click to Register</a>--!>
 </style>
 <body>
     <h1 style="background-color:rgb(233, 233, 216);color:rgb(156, 156, 27);padding:5px;margin:"center";text-align:center"><u>Grandma's Lemon Meringue Pie</u></h1>
